@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello and welcome to my Github profile!
+
+I'm Dana (she/her) and I am a Senior Software Engineer specialising in front-end development :woman_technologist:
+
+I am part of the team that builds and maintains The Economist's website :computer:
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/danaciocan/)
+
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/danaiciocan/)
 
 <!--
 **dana-ciocan/dana-ciocan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
