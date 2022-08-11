@@ -12,6 +12,7 @@ Before this I've mainly worked at agencies and have written code in all sorts of
 * Next.js
 * Emotion
 * Sass
+* Angular
 * Python
 * Django
 * Zope
@@ -19,6 +20,7 @@ Before this I've mainly worked at agencies and have written code in all sorts of
 * mySQL
 * PostgreSQL
 * MS SQL Server
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/danaciocan/)
 
