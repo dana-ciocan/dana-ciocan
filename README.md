@@ -10,6 +10,8 @@ I am part of the team that builds and maintains The Economist's website :compute
 
 I am working on my back-end skills and have passed my AWS Cloud Practitioner certification. I am currently studying for the Solutions Architect Associate exam 👩‍🎓
 
+I have taught the Web Development course at the Code First Girls bootcamp and am a mentor for the School of Code bootcamp. I have just signed up as a coach for the Birmingham chapter of Codebar :woman_teacher:
+
 These are some of the technologies I have worked with during my career:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
