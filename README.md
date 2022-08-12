@@ -26,6 +26,12 @@ These are some of the technologies I have worked with during my career:
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=plastic&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)
 
+<div style="text-align: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dana-ciocan&count_private=true&show_icons=true&theme=prussian" width="400">
+<br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dana-ciocan&count_private=true&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</div>
+
 
 <!--
 **dana-ciocan/dana-ciocan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
