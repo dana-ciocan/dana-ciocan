@@ -21,6 +21,7 @@ These are some of the technologies I have worked with during my career:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=plastic&logo=node.js&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?style=plastic&logo=amazonaws&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=plastic&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=plastic&logo=python&logoColor=white)
