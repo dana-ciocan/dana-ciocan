@@ -8,7 +8,7 @@ My name is Dana, my pronouns are she/her, and I am a Senior Software Engineer sp
 
 Currently, I am part of the team that builds and maintains The Economist's website :computer:
 
-I am working on my back-end skills and have passed my AWS Cloud Practitioner certification. I am currently studying for the Solutions Architect Associate exam 👩‍🎓
+I am working on my back-end and DevOps skills and have passed my AWS Cloud Practitioner certification. I am currently studying for the Solutions Architect Associate exam 👩‍🎓
 
 I have taught the Web Development course at the Code First Girls bootcamp and am a mentor for the School of Code bootcamp. I have just signed up as a coach for the Birmingham chapter of Codebar :woman_teacher:
 
