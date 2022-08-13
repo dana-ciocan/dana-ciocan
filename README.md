@@ -6,7 +6,7 @@
 
 My name is Dana, my pronouns are she/her, and I am a Senior Software Engineer specialising in front-end development :woman_technologist:
 
-Currently, I am part of the team that builds and maintains The Economist's website :computer:
+Currently, I am part of the team that builds and maintains [The Economist's website](https://www.economist.com :computer:
 
 I am working on my back-end and DevOps skills and have passed my AWS Cloud Practitioner certification. I am currently studying for the Solutions Architect Associate exam 👩‍🎓
 
