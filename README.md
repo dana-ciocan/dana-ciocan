@@ -4,7 +4,7 @@
 [![codepen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/dana-ciocan/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/danaiciocan/)
 
-My name is Dana, my pronouns are she/her, and I am a Staff Engineer at the Economist :woman_technologist:
+My name is Dana, my pronouns are she/they, and I am a Staff Engineer at the Economist :woman_technologist:
 
 Currently, I am part of the team that builds and maintains [The Economist's website](https://www.economist.com) :computer:
 
