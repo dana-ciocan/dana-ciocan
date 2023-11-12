@@ -8,7 +8,7 @@ My name is Dana, my pronouns are she/they, and I am a Staff Engineer at the Econ
 
 Currently, I am part of the team that builds and maintains [The Economist's website](https://www.economist.com) :computer:
 
-I am working on my back-end and DevOps skills and have passed my AWS Cloud Practitioner certification. I am currently studying for the Solutions Architect Associate exam 👩‍🎓
+I have obtained my AWS Cloud Practitioner and Solutions Architect Associate AWS certifications and am seriously considering going for Developer Associate next 👩‍🎓
 
 I have taught the Web Development course at the Code First Girls bootcamp and am a mentor for the School of Code bootcamp. I have just signed up as a coach for the Birmingham chapter of Codebar :woman_teacher:
 
