@@ -12,7 +12,7 @@ I do a lot of work around stability, performance, observability and infrastructu
 
 I have obtained my [Cloud Practitioner](https://www.credly.com/badges/f182fc3c-a1e0-4228-aef4-ca91dd51aaa1) and [Solutions Architect Associate](https://www.credly.com/badges/4ff95cf6-40be-4826-b314-4ed67ab5c153) AWS certifications and am seriously considering going for Developer Associate next 👩‍🎓
 
-I have taught the Web Development course at the Code First Girls bootcamp and am a mentor for the School of Code bootcamp. I have just signed up as a coach for the Birmingham chapter of Codebar :woman_teacher:
+I have taught the Web Development course at the [Code First Girls bootcamp](https://codefirstgirls.com/courses/coding-kickstarter/) and am a mentor for the [School of Code bootcamp](https://www.schoolofcode.co.uk/). I have just signed up as a coach for the [Birmingham chapter of Codebar](https://codebar.io/birmingham) :woman_teacher:
 
 You can frequently find me at Birmingham's tech meetups so if you see me, come say hi!
 
