@@ -4,7 +4,7 @@
 [![codepen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/dana-ciocan/)
 [![bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff)](https://bsky.app/profile/danaciocan.bsky.social)
 
-My name is Dana, my pronouns are she/they, and I am a Staff Engineer at the Economist :woman_technologist:
+My name is Dana, my pronouns are they/them, and I am a Staff Engineer at the Economist :woman_technologist:
 
 Currently, I am part of the team that builds and maintains [The Economist's website](https://www.economist.com) :computer:
 
